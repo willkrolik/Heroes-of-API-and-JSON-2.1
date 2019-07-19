@@ -1,0 +1,1406 @@
+[
+    {
+      "Name": "Christian",
+      "Town": "Castle",
+      "Class": "Knight",
+      "Specialty": " Ballista ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Artillery",
+      "Spell": ""
+    },
+    {
+      "Name": "Edric",
+      "Town": "Castle",
+      "Class": "Knight",
+      "Specialty": " Griffins ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Armorer",
+      "Spell": ""
+    },
+    {
+      "Name": "Orrin",
+      "Town": "Castle",
+      "Class": "Knight",
+      "Specialty": " Archery ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Archery",
+      "Spell": ""
+    },
+    {
+      "Name": "Sylvia",
+      "Town": "Castle",
+      "Class": "Knight",
+      "Specialty": " Navigation ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Navigation",
+      "Spell": ""
+    },
+    {
+      "Name": "Valeska",
+      "Town": "Castle",
+      "Class": "Knight",
+      "Specialty": " Archers ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Archery",
+      "Spell": ""
+    },
+    {
+      "Name": "Sorsha",
+      "Town": "Castle",
+      "Class": "Knight",
+      "Specialty": " Swordsmen ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Offense",
+      "Spell": ""
+    },
+    {
+      "Name": "Tyris",
+      "Town": "Castle",
+      "Class": "Knight",
+      "Specialty": " Cavaliers ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Tactics",
+      "Spell": ""
+    },
+    {
+      "Name": "LordHaart",
+      "Town": "Castle",
+      "Class": "Knight",
+      "Specialty": " Estates ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Estates",
+      "Spell": ""
+    },
+    {
+      "Name": "Catherine",
+      "Town": "Castle",
+      "Class": "Knight",
+      "Specialty": " Swordsmen ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Offense",
+      "Spell": ""
+    },
+    {
+      "Name": "Roland",
+      "Town": "Castle",
+      "Class": "Knight",
+      "Specialty": " Swordsmen ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Armorer",
+      "Spell": ""
+    },
+    {
+      "Name": "Sir Mullich",
+      "Town": "Castle",
+      "Class": "Knight",
+      "Specialty": " Speed ",
+      "Skill 1": "Advanced Leadership",
+      "Skill 2": "",
+      "Spell": ""
+    },
+    {
+      "Name": "Adela",
+      "Town": "Castle",
+      "Class": "Cleric",
+      "Specialty": " Bless ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Diplomacy",
+      "Spell": "Bless"
+    },
+    {
+      "Name": "Adelaide",
+      "Town": "Castle",
+      "Class": "Cleric",
+      "Specialty": " Frost Ring ",
+      "Skill 1": "Advanced Wisdom",
+      "Skill 2": "",
+      "Spell": "Frost Ring"
+    },
+    {
+      "Name": "Caitlin",
+      "Town": "Castle",
+      "Class": "Cleric",
+      "Specialty": " Gold ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Intelligence",
+      "Spell": "Cure"
+    },
+    {
+      "Name": "Cuthbert",
+      "Town": "Castle",
+      "Class": "Cleric",
+      "Specialty": " Weakness ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Estates",
+      "Spell": "Weakness"
+    },
+    {
+      "Name": "Ingham",
+      "Town": "Castle",
+      "Class": "Cleric",
+      "Specialty": " Monks ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Mysticism",
+      "Spell": "Curse"
+    },
+    {
+      "Name": "Loynis",
+      "Town": "Castle",
+      "Class": "Cleric",
+      "Specialty": " Prayer ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Learning",
+      "Spell": "Prayer"
+    },
+    {
+      "Name": "Rion",
+      "Town": "Castle",
+      "Class": "Cleric",
+      "Specialty": " First Aid ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic First Aid",
+      "Spell": "Stone Skin"
+    },
+    {
+      "Name": "Sanya",
+      "Town": "Castle",
+      "Class": "Cleric",
+      "Specialty": " Eagle Eye ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Eagle Eye",
+      "Spell": "Dispel"
+    },
+    {
+      "Name": "Jenova",
+      "Town": "Rampart",
+      "Class": "Ranger",
+      "Specialty": " Gold ",
+      "Skill 1": "Advanced Archery",
+      "Skill 2": "",
+      "Spell": ""
+    },
+    {
+      "Name": "Kyrre",
+      "Town": "Rampart",
+      "Class": "Ranger",
+      "Specialty": " Logistics ",
+      "Skill 1": "Basic Archery",
+      "Skill 2": "Basic Logistics",
+      "Spell": ""
+    },
+    {
+      "Name": "Ivor",
+      "Town": "Rampart",
+      "Class": "Ranger",
+      "Specialty": " Elves ",
+      "Skill 1": "Basic Archery",
+      "Skill 2": "Basic Offense",
+      "Spell": ""
+    },
+    {
+      "Name": "Ufretin",
+      "Town": "Rampart",
+      "Class": "Ranger",
+      "Specialty": " Dwarves ",
+      "Skill 1": "Basic Resistance",
+      "Skill 2": "Basic Luck",
+      "Spell": ""
+    },
+    {
+      "Name": "Clancy",
+      "Town": "Rampart",
+      "Class": "Ranger",
+      "Specialty": " Unicorns ",
+      "Skill 1": "Basic Resistance",
+      "Skill 2": "Basic Pathfinding",
+      "Spell": ""
+    },
+    {
+      "Name": "Thorgrim",
+      "Town": "Rampart",
+      "Class": "Ranger",
+      "Specialty": " Resistance ",
+      "Skill 1": "Advanced Resistance",
+      "Skill 2": "",
+      "Spell": ""
+    },
+    {
+      "Name": "Ryland",
+      "Town": "Rampart",
+      "Class": "Ranger",
+      "Specialty": " Dendroids ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Diplomacy",
+      "Spell": ""
+    },
+    {
+      "Name": "Mephala",
+      "Town": "Rampart",
+      "Class": "Ranger",
+      "Specialty": " Armorer ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Armorer",
+      "Spell": ""
+    },
+    {
+      "Name": "Gelu",
+      "Town": "Rampart",
+      "Class": "Ranger",
+      "Specialty": " Sharpshooters ",
+      "Skill 1": "Basic Archery",
+      "Skill 2": "Basic Leadership",
+      "Spell": ""
+    },
+    {
+      "Name": "Aeris",
+      "Town": "Rampart",
+      "Class": "Druid",
+      "Specialty": " Pegasi ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Scouting",
+      "Spell": "Protection from Air"
+    },
+    {
+      "Name": "Alagar",
+      "Town": "Rampart",
+      "Class": "Druid",
+      "Specialty": " Ice Bolt ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Sorcery",
+      "Spell": "Ice Bolt"
+    },
+    {
+      "Name": "Coronius",
+      "Town": "Rampart",
+      "Class": "Druid",
+      "Specialty": " Slayer ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Scholar",
+      "Spell": "Slayer"
+    },
+    {
+      "Name": "Elleshar",
+      "Town": "Rampart",
+      "Class": "Druid",
+      "Specialty": " Intelligence ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Intelligence",
+      "Spell": "Curse"
+    },
+    {
+      "Name": "Malcom",
+      "Town": "Rampart",
+      "Class": "Druid",
+      "Specialty": " Eagle Eye ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Eagle Eye",
+      "Spell": "Magic Arrow"
+    },
+    {
+      "Name": "Melodia",
+      "Town": "Rampart",
+      "Class": "Druid",
+      "Specialty": " Fortune ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Luck",
+      "Spell": "Fortune"
+    },
+    {
+      "Name": "Gem",
+      "Town": "Rampart",
+      "Class": "Druid",
+      "Specialty": " First Aid ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic First Aid",
+      "Spell": "Summon Boat"
+    },
+    {
+      "Name": "Uland",
+      "Town": "Rampart",
+      "Class": "Druid",
+      "Specialty": " Cure ",
+      "Skill 1": "Advanced Wisdom",
+      "Skill 2": "Basic Ballistics",
+      "Spell": "Cure"
+    },
+    {
+      "Name": "Fafner",
+      "Town": "Tower",
+      "Class": "Alchemist",
+      "Specialty": " Nagas ",
+      "Skill 1": "Basic Scholar",
+      "Skill 2": "Basic Resistance",
+      "Spell": "Haste"
+    },
+    {
+      "Name": "Iona",
+      "Town": "Tower",
+      "Class": "Alchemist",
+      "Specialty": " Genies ",
+      "Skill 1": "Basic Scholar",
+      "Skill 2": "Basic Intelligence",
+      "Spell": "Magic Arrow"
+    },
+    {
+      "Name": "Josephine",
+      "Town": "Tower",
+      "Class": "Alchemist",
+      "Specialty": " Golems ",
+      "Skill 1": "Basic Mysticism",
+      "Skill 2": "Basic Sorcery",
+      "Spell": "Haste"
+    },
+    {
+      "Name": "Neela",
+      "Town": "Tower",
+      "Class": "Alchemist",
+      "Specialty": " Armorer ",
+      "Skill 1": "Basic Armorer",
+      "Skill 2": "Basic Scholar",
+      "Spell": "Shield"
+    },
+    {
+      "Name": "Piquedram",
+      "Town": "Tower",
+      "Class": "Alchemist",
+      "Specialty": " Gargoyles ",
+      "Skill 1": "Basic Mysticism",
+      "Skill 2": "Basic Scouting",
+      "Spell": "Shield"
+    },
+    {
+      "Name": "Rissa",
+      "Town": "Tower",
+      "Class": "Alchemist",
+      "Specialty": " Mercury ",
+      "Skill 1": "Basic Mysticism",
+      "Skill 2": "Basic Offense",
+      "Spell": "Magic Arrow"
+    },
+    {
+      "Name": "Thane",
+      "Town": "Tower",
+      "Class": "Alchemist",
+      "Specialty": " Genies ",
+      "Skill 1": "Advanced Scholar",
+      "Skill 2": "",
+      "Spell": "Magic Arrow"
+    },
+    {
+      "Name": "Torosar",
+      "Town": "Tower",
+      "Class": "Alchemist",
+      "Specialty": " Ballista ",
+      "Skill 1": "Basic Mysticism",
+      "Skill 2": "Basic Tactics",
+      "Spell": "Magic Arrow"
+    },
+    {
+      "Name": "Aine",
+      "Town": "Tower",
+      "Class": "Wizard",
+      "Specialty": " Gold ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Scholar",
+      "Spell": "Curse"
+    },
+    {
+      "Name": "Astral",
+      "Town": "Tower",
+      "Class": "Wizard",
+      "Specialty": " Hypnotize ",
+      "Skill 1": "Advanced Wisdom",
+      "Skill 2": "",
+      "Spell": "Hypnotize"
+    },
+    {
+      "Name": "Cyra",
+      "Town": "Tower",
+      "Class": "Wizard",
+      "Specialty": " Haste ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Diplomacy",
+      "Spell": "Haste"
+    },
+    {
+      "Name": "Daremyth",
+      "Town": "Tower",
+      "Class": "Wizard",
+      "Specialty": " Fortune ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Intelligence",
+      "Spell": "Fortune"
+    },
+    {
+      "Name": "Halon",
+      "Town": "Tower",
+      "Class": "Wizard",
+      "Specialty": " Mysticism ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Mysticism",
+      "Spell": "Stone Skin"
+    },
+    {
+      "Name": "Serena",
+      "Town": "Tower",
+      "Class": "Wizard",
+      "Specialty": " Eagle Eye ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Eagle Eye",
+      "Spell": "Dispel"
+    },
+    {
+      "Name": "Solmyr",
+      "Town": "Tower",
+      "Class": "Wizard",
+      "Specialty": " Chain Lightning ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Sorcery",
+      "Spell": "Chain Lightning"
+    },
+    {
+      "Name": "Theodorus",
+      "Town": "Tower",
+      "Class": "Wizard",
+      "Specialty": " Magi ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Ballistics",
+      "Spell": "Shield"
+    },
+    {
+      "Name": "Dracon",
+      "Town": "Tower",
+      "Class": "Wizard",
+      "Specialty": " Enchanters ",
+      "Skill 1": "Advanced Wisdom",
+      "Skill 2": "",
+      "Spell": "Haste"
+    },
+    {
+      "Name": "Calh",
+      "Town": "Inferno",
+      "Class": "Demoniac",
+      "Specialty": " Gogs ",
+      "Skill 1": "Basic Archery",
+      "Skill 2": "Basic Scouting",
+      "Spell": ""
+    },
+    {
+      "Name": "Fiona",
+      "Town": "Inferno",
+      "Class": "Demoniac",
+      "Specialty": " Hell Hounds ",
+      "Skill 1": "Advanced Scouting",
+      "Skill 2": "",
+      "Spell": ""
+    },
+    {
+      "Name": "Ignatius",
+      "Town": "Inferno",
+      "Class": "Demoniac",
+      "Specialty": " Imps ",
+      "Skill 1": "Basic Tactics",
+      "Skill 2": "Basic Resistance",
+      "Spell": ""
+    },
+    {
+      "Name": "Marius",
+      "Town": "Inferno",
+      "Class": "Demoniac",
+      "Specialty": " Demons ",
+      "Skill 1": "Advanced Armorer",
+      "Skill 2": "",
+      "Spell": ""
+    },
+    {
+      "Name": "Nymus",
+      "Town": "Inferno",
+      "Class": "Demoniac",
+      "Specialty": " Pit Fiends ",
+      "Skill 1": "Advanced Offense",
+      "Skill 2": "",
+      "Spell": ""
+    },
+    {
+      "Name": "Octavia",
+      "Town": "Inferno",
+      "Class": "Demoniac",
+      "Specialty": " Gold ",
+      "Skill 1": "Basic Scholar",
+      "Skill 2": "Basic Offense",
+      "Spell": ""
+    },
+    {
+      "Name": "Pyre",
+      "Town": "Inferno",
+      "Class": "Demoniac",
+      "Specialty": " Ballista ",
+      "Skill 1": "Basic Logistics",
+      "Skill 2": "Basic Artillery",
+      "Spell": ""
+    },
+    {
+      "Name": "Rashka",
+      "Town": "Inferno",
+      "Class": "Demoniac",
+      "Specialty": " Efreeti ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Scholar",
+      "Spell": ""
+    },
+    {
+      "Name": "Xeron",
+      "Town": "Inferno",
+      "Class": "Demoniac",
+      "Specialty": " Devils ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Tactics",
+      "Spell": ""
+    },
+    {
+      "Name": "Ash",
+      "Town": "Inferno",
+      "Class": "Heretic",
+      "Specialty": " Bloodlust ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Eagle Eye",
+      "Spell": "Bloodlust "
+    },
+    {
+      "Name": "Axsis",
+      "Town": "Inferno",
+      "Class": "Heretic",
+      "Specialty": " Mysticism ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Mysticism",
+      "Spell": "Protection from Air "
+    },
+    {
+      "Name": "Ayden",
+      "Town": "Inferno",
+      "Class": "Heretic",
+      "Specialty": " Intelligence ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Intelligence",
+      "Spell": "View Earth "
+    },
+    {
+      "Name": "Calid",
+      "Town": "Inferno",
+      "Class": "Heretic",
+      "Specialty": " Sulfur ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Learning",
+      "Spell": "Haste "
+    },
+    {
+      "Name": "Olema",
+      "Town": "Inferno",
+      "Class": "Heretic",
+      "Specialty": " Weakness ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Ballistics",
+      "Spell": "Weakness"
+    },
+    {
+      "Name": "Xyron",
+      "Town": "Inferno",
+      "Class": "Heretic",
+      "Specialty": " Inferno (spell) ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Scholar",
+      "Spell": "Inferno "
+    },
+    {
+      "Name": "Xarfax",
+      "Town": "Inferno",
+      "Class": "Heretic",
+      "Specialty": " Fireball ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Leadership",
+      "Spell": "Fireball "
+    },
+    {
+      "Name": "Zydar",
+      "Town": "Inferno",
+      "Class": "Heretic",
+      "Specialty": " Sorcery ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Sorcery",
+      "Spell": "Stone Skin "
+    },
+    {
+      "Name": "Charna",
+      "Town": "Necropolis",
+      "Class": "DeathKnight",
+      "Specialty": " Wights ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Tactics",
+      "Spell": "Magic Arrow "
+    },
+    {
+      "Name": "Clavius",
+      "Town": "Necropolis",
+      "Class": "DeathKnight",
+      "Specialty": " Gold ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Offense",
+      "Spell": "Magic Arrow "
+    },
+    {
+      "Name": "Galthran",
+      "Town": "Necropolis",
+      "Class": "DeathKnight",
+      "Specialty": " Skeletons ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Armorer",
+      "Spell": "Shield "
+    },
+    {
+      "Name": "Isra",
+      "Town": "Necropolis",
+      "Class": "DeathKnight",
+      "Specialty": " Necromancy ",
+      "Skill 1": "Advanced Necromancy",
+      "Skill 2": "",
+      "Spell": "Magic Arrow "
+    },
+    {
+      "Name": "Moandor",
+      "Town": "Necropolis",
+      "Class": "DeathKnight",
+      "Specialty": " Liches ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Learning",
+      "Spell": "Slow "
+    },
+    {
+      "Name": "Straker",
+      "Town": "Necropolis",
+      "Class": "DeathKnight",
+      "Specialty": " Walking Dead ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Resistance",
+      "Spell": "Haste "
+    },
+    {
+      "Name": "Tamika",
+      "Town": "Necropolis",
+      "Class": "DeathKnight",
+      "Specialty": " Black Knights ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Offense",
+      "Spell": "Magic Arrow "
+    },
+    {
+      "Name": "Vokial",
+      "Town": "Necropolis",
+      "Class": "DeathKnight",
+      "Specialty": " Vampires ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Artillery",
+      "Spell": "Stone Skin "
+    },
+    {
+      "Name": "Lord Haart",
+      "Town": "Necropolis",
+      "Class": "DeathKnight",
+      "Specialty": " Black Knights ",
+      "Skill 1": "Advanced Necromancy",
+      "Skill 2": "",
+      "Spell": "Slow "
+    },
+    {
+      "Name": "Aislinn",
+      "Town": "Necropolis",
+      "Class": "Necromancer",
+      "Specialty": " Meteor Shower ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Wisdom",
+      "Spell": "Meteor Shower "
+    },
+    {
+      "Name": "Nagash",
+      "Town": "Necropolis",
+      "Class": "Necromancer",
+      "Specialty": " Gold ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Intelligence",
+      "Spell": "Protection from Air "
+    },
+    {
+      "Name": "Nimbus",
+      "Town": "Necropolis",
+      "Class": "Necromancer",
+      "Specialty": " Eagle Eye ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Eagle Eye",
+      "Spell": "Shield "
+    },
+    {
+      "Name": "Sandro",
+      "Town": "Necropolis",
+      "Class": "Necromancer",
+      "Specialty": " Sorcery ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Sorcery",
+      "Spell": "Slow "
+    },
+    {
+      "Name": "Septienna",
+      "Town": "Necropolis",
+      "Class": "Necromancer",
+      "Specialty": " Death Ripple ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Scholar",
+      "Spell": "Death Ripple "
+    },
+    {
+      "Name": "Thant",
+      "Town": "Necropolis",
+      "Class": "Necromancer",
+      "Specialty": " Animate Dead ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Mysticism",
+      "Spell": "Animate Dead "
+    },
+    {
+      "Name": "Vidomina",
+      "Town": "Necropolis",
+      "Class": "Necromancer",
+      "Specialty": " Necromancy ",
+      "Skill 1": "Advanced Necromancy",
+      "Skill 2": "",
+      "Spell": "Curse "
+    },
+    {
+      "Name": "Xsi",
+      "Town": "Necropolis",
+      "Class": "Necromancer",
+      "Specialty": " Stone Skin ",
+      "Skill 1": "Basic Necromancy",
+      "Skill 2": "Basic Learning",
+      "Spell": "Stone Skin "
+    },
+    {
+      "Name": "Ajit",
+      "Town": "Dungeon",
+      "Class": "Overlord",
+      "Specialty": " Beholders ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Resistance",
+      "Spell": ""
+    },
+    {
+      "Name": "Arlach",
+      "Town": "Dungeon",
+      "Class": "Overlord",
+      "Specialty": " Ballista ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Artillery",
+      "Spell": ""
+    },
+    {
+      "Name": "Dace",
+      "Town": "Dungeon",
+      "Class": "Overlord",
+      "Specialty": " Minotaurs ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Tactics",
+      "Spell": ""
+    },
+    {
+      "Name": "Damacon",
+      "Town": "Dungeon",
+      "Class": "Overlord",
+      "Specialty": " Gold ",
+      "Skill 1": "Advanced Offense",
+      "Skill 2": "",
+      "Spell": ""
+    },
+    {
+      "Name": "Gunnar",
+      "Town": "Dungeon",
+      "Class": "Overlord",
+      "Specialty": " Logistics ",
+      "Skill 1": "Basic Tactics",
+      "Skill 2": "Basic Logistics",
+      "Spell": ""
+    },
+    {
+      "Name": "Lorelei",
+      "Town": "Dungeon",
+      "Class": "Overlord",
+      "Specialty": " Harpies ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Scouting",
+      "Spell": ""
+    },
+    {
+      "Name": "Shakti",
+      "Town": "Dungeon",
+      "Class": "Overlord",
+      "Specialty": " Troglodytes ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Tactics",
+      "Spell": ""
+    },
+    {
+      "Name": "Synca",
+      "Town": "Dungeon",
+      "Class": "Overlord",
+      "Specialty": " Manticores ",
+      "Skill 1": "Basic Leadership",
+      "Skill 2": "Basic Scholar",
+      "Spell": ""
+    },
+    {
+      "Name": "Mutare",
+      "Town": "Dungeon",
+      "Class": "Overlord",
+      "Specialty": " Dragons ",
+      "Skill 1": "Basic Estates",
+      "Skill 2": "Basic Tactics",
+      "Spell": ""
+    },
+    {
+      "Name": "Mutare Drake",
+      "Town": "Dungeon",
+      "Class": "Overlord",
+      "Specialty": " Dragons ",
+      "Skill 1": "Basic Estates",
+      "Skill 2": "Basic Tactics",
+      "Spell": ""
+    },
+    {
+      "Name": "Alamar",
+      "Town": "Dungeon",
+      "Class": "Warlock",
+      "Specialty": " Resurrection ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Scholar",
+      "Spell": "Resurrection"
+    },
+    {
+      "Name": "Darkstorn",
+      "Town": "Dungeon",
+      "Class": "Warlock",
+      "Specialty": " Stone Skin ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Learning",
+      "Spell": "Stone Skin "
+    },
+    {
+      "Name": "Deemer",
+      "Town": "Dungeon",
+      "Class": "Warlock",
+      "Specialty": " Meteor Shower ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Advanced Scouting",
+      "Spell": "Meteor Shower "
+    },
+    {
+      "Name": "Geon",
+      "Town": "Dungeon",
+      "Class": "Warlock",
+      "Specialty": " Eagle Eye ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Eagle Eye",
+      "Spell": "Slow "
+    },
+    {
+      "Name": "Jaegar",
+      "Town": "Dungeon",
+      "Class": "Warlock",
+      "Specialty": " Mysticism ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Mysticism",
+      "Spell": "Shield "
+    },
+    {
+      "Name": "Jeddite",
+      "Town": "Dungeon",
+      "Class": "Warlock",
+      "Specialty": " Resurrection ",
+      "Skill 1": "Advanced Wisdom",
+      "Skill 2": "",
+      "Spell": "Resurrection "
+    },
+    {
+      "Name": "Malekith",
+      "Town": "Dungeon",
+      "Class": "Warlock",
+      "Specialty": " Sorcery ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Sorcery",
+      "Spell": "Bloodlust "
+    },
+    {
+      "Name": "Sephinroth",
+      "Town": "Dungeon",
+      "Class": "Warlock",
+      "Specialty": " Crystal ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Intelligence",
+      "Spell": "Protection from Air "
+    },
+    {
+      "Name": "Crag Hack",
+      "Town": "Stronghold",
+      "Class": "Barbarian",
+      "Specialty": " Offense ",
+      "Skill 1": "Advanced Offense",
+      "Skill 2": "",
+      "Spell": ""
+    },
+    {
+      "Name": "Gretchin",
+      "Town": "Stronghold",
+      "Class": "Barbarian",
+      "Specialty": " Goblins ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Pathfinding",
+      "Spell": ""
+    },
+    {
+      "Name": "Gurnisson",
+      "Town": "Stronghold",
+      "Class": "Barbarian",
+      "Specialty": " Ballista ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Artillery",
+      "Spell": ""
+    },
+    {
+      "Name": "Jabarkas",
+      "Town": "Stronghold",
+      "Class": "Barbarian",
+      "Specialty": " Orcs ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Archery",
+      "Spell": ""
+    },
+    {
+      "Name": "Krellion",
+      "Town": "Stronghold",
+      "Class": "Barbarian",
+      "Specialty": " Ogres ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Resistance",
+      "Spell": ""
+    },
+    {
+      "Name": "Shiva",
+      "Town": "Stronghold",
+      "Class": "Barbarian",
+      "Specialty": " Rocs ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Scouting",
+      "Spell": ""
+    },
+    {
+      "Name": "Tyraxor",
+      "Town": "Stronghold",
+      "Class": "Barbarian",
+      "Specialty": " Wolf Riders ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Tactics",
+      "Spell": ""
+    },
+    {
+      "Name": "Yog",
+      "Town": "Stronghold",
+      "Class": "Barbarian",
+      "Specialty": " Cyclops ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Ballistics",
+      "Spell": ""
+    },
+    {
+      "Name": "Boragus",
+      "Town": "Stronghold",
+      "Class": "Barbarian",
+      "Specialty": " Ogres ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Tactics",
+      "Spell": ""
+    },
+    {
+      "Name": "Kilgor",
+      "Town": "Stronghold",
+      "Class": "Barbarian",
+      "Specialty": " Behemoths ",
+      "Skill 1": "Advanced Offense",
+      "Skill 2": "",
+      "Spell": ""
+    },
+    {
+      "Name": "Dessa",
+      "Town": "Stronghold",
+      "Class": "Battle Mage",
+      "Specialty": " Logistics ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Logistics",
+      "Spell": "Stone Skin "
+    },
+    {
+      "Name": "Gird",
+      "Town": "Stronghold",
+      "Class": "Battle Mage",
+      "Specialty": " Sorcery ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Sorcery",
+      "Spell": "Bloodlust "
+    },
+    {
+      "Name": "Gundula",
+      "Town": "Stronghold",
+      "Class": "Battle Mage",
+      "Specialty": " Offense ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Offense",
+      "Spell": "Slow "
+    },
+    {
+      "Name": "Oris",
+      "Town": "Stronghold",
+      "Class": "Battle Mage",
+      "Specialty": " Eagle Eye ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Eagle Eye",
+      "Spell": "Protection from Air "
+    },
+    {
+      "Name": "Saurug",
+      "Town": "Stronghold",
+      "Class": "Battle Mage",
+      "Specialty": " Gems ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Resistance",
+      "Spell": "Bloodlust "
+    },
+    {
+      "Name": "Terek",
+      "Town": "Stronghold",
+      "Class": "Battle Mage",
+      "Specialty": " Haste ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Tactics",
+      "Spell": "Haste "
+    },
+    {
+      "Name": "Vey",
+      "Town": "Stronghold",
+      "Class": "Battle Mage",
+      "Specialty": " Ogres ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Leadership",
+      "Spell": "Magic Arrow "
+    },
+    {
+      "Name": "Zubin",
+      "Town": "Stronghold",
+      "Class": "Battle Mage",
+      "Specialty": " Precision ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Artillery",
+      "Spell": "Precision "
+    },
+    {
+      "Name": "Alkin",
+      "Town": "Fortress",
+      "Class": "Beastmaster",
+      "Specialty": " Gorgons ",
+      "Skill 1": "Basic Armorer",
+      "Skill 2": "Basic Offense",
+      "Spell": ""
+    },
+    {
+      "Name": "Broghild",
+      "Town": "Fortress",
+      "Class": "Beastmaster",
+      "Specialty": " Wyverns ",
+      "Skill 1": "Basic Armorer",
+      "Skill 2": "Basic Scouting",
+      "Spell": ""
+    },
+    {
+      "Name": "Bron",
+      "Town": "Fortress",
+      "Class": "Beastmaster",
+      "Specialty": " Basilisks ",
+      "Skill 1": "Basic Armorer",
+      "Skill 2": "Basic Resistance",
+      "Spell": ""
+    },
+    {
+      "Name": "Drakon",
+      "Town": "Fortress",
+      "Class": "Beastmaster",
+      "Specialty": " Gnolls ",
+      "Skill 1": "Basic Armorer",
+      "Skill 2": "Basic Leadership",
+      "Spell": ""
+    },
+    {
+      "Name": "Gerwulf",
+      "Town": "Fortress",
+      "Class": "Beastmaster",
+      "Specialty": " Ballista ",
+      "Skill 1": "Basic Armorer",
+      "Skill 2": "Basic Artillery",
+      "Spell": ""
+    },
+    {
+      "Name": "Korbac",
+      "Town": "Fortress",
+      "Class": "Beastmaster",
+      "Specialty": " Serpent Flies ",
+      "Skill 1": "Basic Armorer",
+      "Skill 2": "Basic Pathfinding",
+      "Spell": ""
+    },
+    {
+      "Name": "Tazar",
+      "Town": "Fortress",
+      "Class": "Beastmaster",
+      "Specialty": " Armorer ",
+      "Skill 1": "Advanced Armorer",
+      "Skill 2": "",
+      "Spell": ""
+    },
+    {
+      "Name": "Wystan",
+      "Town": "Fortress",
+      "Class": "Beastmaster",
+      "Specialty": " Lizardmen ",
+      "Skill 1": "Basic Armorer",
+      "Skill 2": "Basic Archery",
+      "Spell": ""
+    },
+    {
+      "Name": "Andra",
+      "Town": "Fortress",
+      "Class": "Witch",
+      "Specialty": " Intelligence ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Intelligence",
+      "Spell": "Dispel"
+    },
+    {
+      "Name": "Merist",
+      "Town": "Fortress",
+      "Class": "Witch",
+      "Specialty": " Stone Skin ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Learning",
+      "Spell": "Stone Skin "
+    },
+    {
+      "Name": "Mirlanda",
+      "Town": "Fortress",
+      "Class": "Witch",
+      "Specialty": " Weakness ",
+      "Skill 1": "Advanced Wisdom",
+      "Skill 2": "",
+      "Spell": "Weakness "
+    },
+    {
+      "Name": "Rosic",
+      "Town": "Fortress",
+      "Class": "Witch",
+      "Specialty": " Mysticism ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Mysticism",
+      "Spell": "Magic Arrow "
+    },
+    {
+      "Name": "Styg",
+      "Town": "Fortress",
+      "Class": "Witch",
+      "Specialty": " Sorcery ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Sorcery",
+      "Spell": "Shield "
+    },
+    {
+      "Name": "Tiva",
+      "Town": "Fortress",
+      "Class": "Witch",
+      "Specialty": " Eagle Eye ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Eagle Eye",
+      "Spell": "Stone Skin "
+    },
+    {
+      "Name": "Verdish",
+      "Town": "Fortress",
+      "Class": "Witch",
+      "Specialty": " First Aid ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic First Aid",
+      "Spell": "Protection from Fire "
+    },
+    {
+      "Name": "Voy",
+      "Town": "Fortress",
+      "Class": "Witch",
+      "Specialty": " Navigation ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Navigation",
+      "Spell": "Slow "
+    },
+    {
+      "Name": "Adrienne",
+      "Town": "Fortress",
+      "Class": "Witch",
+      "Specialty": " Fire Magic ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Expert Fire Magic",
+      "Spell": "Inferno "
+    },
+    {
+      "Name": "Erdamon",
+      "Town": "Conflux",
+      "Class": "Planeswalker",
+      "Specialty": " Earth Elementals ",
+      "Skill 1": "Basic Tactics",
+      "Skill 2": "Basic Estates",
+      "Spell": ""
+    },
+    {
+      "Name": "Fiur",
+      "Town": "Conflux",
+      "Class": "Planeswalker",
+      "Specialty": " Fire Elementals ",
+      "Skill 1": "Advanced Offense",
+      "Skill 2": "",
+      "Spell": ""
+    },
+    {
+      "Name": "Ignissa",
+      "Town": "Conflux",
+      "Class": "Planeswalker",
+      "Specialty": " Fire Elementals ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Artillery",
+      "Spell": ""
+    },
+    {
+      "Name": "Kalt",
+      "Town": "Conflux",
+      "Class": "Planeswalker",
+      "Specialty": " Water Elementals ",
+      "Skill 1": "Basic Tactics",
+      "Skill 2": "Basic Learning",
+      "Spell": ""
+    },
+    {
+      "Name": "Lacus",
+      "Town": "Conflux",
+      "Class": "Planeswalker",
+      "Specialty": " Water Elementals ",
+      "Skill 1": "Advanced Tactics",
+      "Skill 2": "",
+      "Spell": ""
+    },
+    {
+      "Name": "Monere",
+      "Town": "Conflux",
+      "Class": "Planeswalker",
+      "Specialty": " Psychic Elementals ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Logistics",
+      "Spell": ""
+    },
+    {
+      "Name": "Pasis",
+      "Town": "Conflux",
+      "Class": "Planeswalker",
+      "Specialty": " Psychic Elementals ",
+      "Skill 1": "Basic Offense",
+      "Skill 2": "Basic Artillery",
+      "Spell": ""
+    },
+    {
+      "Name": "Thunar",
+      "Town": "Conflux",
+      "Class": "Planeswalker",
+      "Specialty": " Earth Elementals ",
+      "Skill 1": "Basic Tactics",
+      "Skill 2": "Basic Estates",
+      "Spell": ""
+    },
+    {
+      "Name": "Aenain",
+      "Town": "Conflux",
+      "Class": "Elementalist",
+      "Specialty": " Disrupting Ray ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Air Magic",
+      "Spell": "Disrupting Ray "
+    },
+    {
+      "Name": "Brissa",
+      "Town": "Conflux",
+      "Class": "Elementalist",
+      "Specialty": " Haste ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Air Magic",
+      "Spell": "Haste "
+    },
+    {
+      "Name": "Ciele",
+      "Town": "Conflux",
+      "Class": "Elementalist",
+      "Specialty": " Magic Arrow ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Water Magic",
+      "Spell": "Magic Arrow "
+    },
+    {
+      "Name": "Gelare",
+      "Town": "Conflux",
+      "Class": "Elementalist",
+      "Specialty": " Gold ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Water Magic",
+      "Spell": "Dispel "
+    },
+    {
+      "Name": "Grindan",
+      "Town": "Conflux",
+      "Class": "Elementalist",
+      "Specialty": " Gold ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Earth Magic",
+      "Spell": "Slow "
+    },
+    {
+      "Name": "Inteus",
+      "Town": "Conflux",
+      "Class": "Elementalist",
+      "Specialty": " Bloodlust ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Fire Magic",
+      "Spell": "Bloodlust "
+    },
+    {
+      "Name": "Labetha",
+      "Town": "Conflux",
+      "Class": "Elementalist",
+      "Specialty": " Stone Skin ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Earth Magic",
+      "Spell": "Stone Skin "
+    },
+    {
+      "Name": "Luna",
+      "Town": "Conflux",
+      "Class": "Elementalist",
+      "Specialty": " Fire Wall ",
+      "Skill 1": "Basic Wisdom",
+      "Skill 2": "Basic Fire Magic",
+      "Spell": "Fire Wall "
+    }
+   ]

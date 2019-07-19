@@ -1,0 +1,1395 @@
+
+[
+    {
+      "Artifact": "Cape of ConjuringCape of Conjuring",
+      "Slot": "Cape",
+      "Class": "Treasure",
+      "Cost": "1500Gold",
+      "Effect": "Spell duration +3",
+      "Combination": "Part of Ring of the Magi"
+    },
+    {
+      "Artifact": "Dragon Wing TabardDragon Wing Tabard",
+      "Slot": "Cape",
+      "Class": "Minor",
+      "Cost": "4000Gold",
+      "Effect": "Spell Power+2",
+      "Combination": "Part ofPower of the Dragon Father"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Knowledge+2",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Vampire's CowlVampire's Cowl",
+      "Slot": "Cape",
+      "Class": "Minor",
+      "Cost": "4000Gold",
+      "Effect": "Necromancy+5%",
+      "Combination": "Part ofCloak of the Undead King"
+    },
+    {
+      "Artifact": "Surcoat of CounterpoiseSurcoat of Counterpoise",
+      "Slot": "Cape",
+      "Class": "Major",
+      "Cost": "4000Gold",
+      "Effect": "Magic Resistance+10%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Ambassador's SashAmbassador's Sash",
+      "Slot": "Cape",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "Surrenderingcost is reduced by 10%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Everflowing Crystal CloakEverflowing Crystal Cloak",
+      "Slot": "Cape",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "ResourceCrystal+1",
+      "Combination": "Part ofCornucopia"
+    },
+    {
+      "Artifact": "Recanter's CloakRecanter's Cloak",
+      "Slot": "Cape",
+      "Class": "Major",
+      "Cost": "8000Gold",
+      "Effect": "Prevents casting lvl 3+spells",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Cape of VelocityCape of Velocity",
+      "Slot": "Cape",
+      "Class": "Major",
+      "Cost": "10000Gold",
+      "Effect": "Unitspeed+2",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Angel WingsAngel Wings",
+      "Slot": "Cape",
+      "Class": "Relic",
+      "Cost": "20000Gold",
+      "Effect": "SpellFlypermanent",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Cloak of the Undead KingCloak of the Undead King",
+      "Slot": "Combo",
+      "Class": "Relic",
+      "Cost": "12000Gold",
+      "Effect": "Necromancy+60%Skeletons,",
+      "Combination": "Cape/Necklace/Feet"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Walking Dead,WightsorLiches",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Dragonbone GreavesDragonbone Greaves",
+      "Slot": "Feet",
+      "Class": "Treasure",
+      "Cost": "2000Gold",
+      "Effect": "Knowledge+1",
+      "Combination": "Part ofPower of the Dragon Father"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Power skill+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Boots of SpeedBoots of Speed",
+      "Slot": "Feet",
+      "Class": "Minor",
+      "Cost": "6000Gold",
+      "Effect": "HeroMovement points+600",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Dead Man's BootsDead Man's Boots",
+      "Slot": "Feet",
+      "Class": "Major",
+      "Cost": "6000Gold",
+      "Effect": "Necromancy+15%",
+      "Combination": "Part ofCloak of the Undead King"
+    },
+    {
+      "Artifact": "Boots of PolarityBoots of Polarity",
+      "Slot": "Feet",
+      "Class": "Relic",
+      "Cost": "6000Gold",
+      "Effect": "Magic Resistance+15%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Sandals of the SaintSandals of the Saint",
+      "Slot": "Feet",
+      "Class": "Relic",
+      "Cost": "8000Gold",
+      "Effect": "AllPrimary skills+2",
+      "Combination": "Part ofAngelic Alliance"
+    },
+    {
+      "Artifact": "Boots of LevitationBoots of Levitation",
+      "Slot": "Feet",
+      "Class": "Relic",
+      "Cost": "10000Gold",
+      "Effect": "SpellWater Walkpermanent",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Helm of the Alabaster UnicornHelm of the Alabaster Unicorn",
+      "Slot": "Helm",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Knowledge+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Skull HelmetSkull Helmet",
+      "Slot": "Helm",
+      "Class": "Treasure",
+      "Cost": "3000Gold",
+      "Effect": "Knowledge+2",
+      "Combination": "Part ofArmor of the Damned"
+    },
+    {
+      "Artifact": "Helm of ChaosHelm of Chaos",
+      "Slot": "Helm",
+      "Class": "Minor",
+      "Cost": "4000Gold",
+      "Effect": "Knowledge+3",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Crown of the Supreme MagiCrown of the Supreme Magi",
+      "Slot": "Helm",
+      "Class": "Minor",
+      "Cost": "5000Gold",
+      "Effect": "Knowledge+4",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Hellstorm HelmetHellstorm Helmet",
+      "Slot": "Helm",
+      "Class": "Major",
+      "Cost": "6000Gold",
+      "Effect": "Knowledge+5",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Crown of DragontoothCrown of Dragontooth",
+      "Slot": "Helm",
+      "Class": "Relic",
+      "Cost": "8000Gold",
+      "Effect": "Spell Power+4",
+      "Combination": "Part ofPower of the Dragon Father"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Knowledge+4",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Thunder HelmetThunder Helmet",
+      "Slot": "Helm",
+      "Class": "Relic",
+      "Cost": "10000Gold",
+      "Effect": "Knowledge+10",
+      "Combination": "Part ofTitan's Thunder"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Spell Power-2",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Sea Captain's HatSea Captain's Hat",
+      "Slot": "Helm",
+      "Class": "Relic",
+      "Cost": "15000Gold",
+      "Effect": "Hero seamovement+500",
+      "Combination": "Part ofAdmiral's Hat"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "SpellsSummon Boat,Scuttle Boat",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Protects army inwhirlpools",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Helm of Heavenly EnlightenmentHelm of Heavenly Enlightenment",
+      "Slot": "Helm",
+      "Class": "Relic",
+      "Cost": "24000Gold",
+      "Effect": "AllPrimary Skills+6",
+      "Combination": "Part ofAngelic Alliance"
+    },
+    {
+      "Artifact": "Spellbinder's HatSpellbinder's Hat",
+      "Slot": "Helm",
+      "Class": "Relic",
+      "Cost": "30000Gold",
+      "Effect": "All lvl 5Spells",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Admiral's HatAdmiral's Hat",
+      "Slot": "Combo",
+      "Class": "Relic",
+      "Cost": "25000Gold",
+      "Effect": "Hero seamovement+ 1500",
+      "Combination": "Helm/Necklace"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "No penalty forBoatboarding/disembarking",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "SpellsSummon Boat,Scuttle Boat",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Movementconverted between land and sea",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Protects army inwhirlpools",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Shield of the Dwarven LordsShield of the Dwarven Lords",
+      "Slot": "Shield",
+      "Class": "Treasure",
+      "Cost": "2000Gold",
+      "Effect": "Defense+2",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Shield of the Yawning DeadShield of the Yawning Dead",
+      "Slot": "Shield",
+      "Class": "Minor",
+      "Cost": "3000Gold",
+      "Effect": "Defense+3",
+      "Combination": "Part ofArmor of the Damned"
+    },
+    {
+      "Artifact": "Buckler of the Gnoll KingBuckler of the Gnoll King",
+      "Slot": "Shield",
+      "Class": "Minor",
+      "Cost": "4000Gold",
+      "Effect": "Defense+4",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Targ of the Rampaging OgreTarg of the Rampaging Ogre",
+      "Slot": "Shield",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "Defense+5",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Shield of the DamnedShield of the Damned",
+      "Slot": "Shield",
+      "Class": "Major",
+      "Cost": "6000Gold",
+      "Effect": "Defense+6",
+      "Combination": "Part ofArmageddon's Blade(campaign only)"
+    },
+    {
+      "Artifact": "Dragon Scale ShieldDragon Scale Shield",
+      "Slot": "Shield",
+      "Class": "Major",
+      "Cost": "6000Gold",
+      "Effect": "Attack+3",
+      "Combination": "Part ofPower of the Dragon Father"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Defense+3",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Lion's Shield of CourageLion's Shield of Courage",
+      "Slot": "Shield",
+      "Class": "Relic",
+      "Cost": "16000Gold",
+      "Effect": "AllPrimary Skills+4",
+      "Combination": "Part ofAngelic Alliance"
+    },
+    {
+      "Artifact": "Sentinel's ShieldSentinel's Shield",
+      "Slot": "Shield",
+      "Class": "Relic",
+      "Cost": "10000Gold",
+      "Effect": "Defense+12",
+      "Combination": "Part ofTitan's Thunder"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Attack-3",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Charm of ManaCharm of Mana",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "500Gold",
+      "Effect": "Spell points+1/day",
+      "Combination": "Part ofWizard's Well"
+    },
+    {
+      "Artifact": "Talisman of ManaTalisman of Mana",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Spell points+2/day",
+      "Combination": "Part ofWizard's Well"
+    },
+    {
+      "Artifact": "Mystic Orb of ManaMystic Orb of Mana",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "1500Gold",
+      "Effect": "Spell points+3/day",
+      "Combination": "Part ofWizard's Well"
+    },
+    {
+      "Artifact": "Wizard's WellWizard's Well",
+      "Slot": "Combo",
+      "Class": "Relic",
+      "Cost": "3000Gold",
+      "Effect": "Spell points+all/day",
+      "Combination": "Misc/Misc/Misc"
+    },
+    {
+      "Artifact": "Orb of SiltOrb of Silt",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "6000Gold",
+      "Effect": "AllEarth spelldmg +50%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Orb of the FirmamentOrb of the Firmament",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "6000Gold",
+      "Effect": "AllAir spelldmg +50%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Orb of Driving RainOrb of Driving Rain",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "6000Gold",
+      "Effect": "AllWater spelldmg +50%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Orb of Tempestuous FireOrb of Tempestuous Fire",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "6000Gold",
+      "Effect": "AllFire spelldmg +50%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Tome of EarthTome of Earth",
+      "Slot": "Misc",
+      "Class": "Relic",
+      "Cost": "20000Gold",
+      "Effect": "AllEarth spells",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Tome of AirTome of Air",
+      "Slot": "Misc",
+      "Class": "Relic",
+      "Cost": "20000Gold",
+      "Effect": "AllAir spells",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Tome of WaterTome of Water",
+      "Slot": "Misc",
+      "Class": "Relic",
+      "Cost": "20000Gold",
+      "Effect": "AllWater spells",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Tome of FireTome of Fire",
+      "Slot": "Misc",
+      "Class": "Relic",
+      "Cost": "20000Gold",
+      "Effect": "AllFire spells",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Sphere of PermanenceSphere of Permanence",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "7500Gold",
+      "Effect": "Immune toDispel",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Orb of InhibitionOrb of Inhibition",
+      "Slot": "Misc",
+      "Class": "Relic",
+      "Cost": "20000Gold",
+      "Effect": "Prevents casting allspells",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Orb of VulnerabilityOrb of Vulnerability",
+      "Slot": "Misc",
+      "Class": "Relic",
+      "Cost": "25000Gold",
+      "Effect": "All spells usable, no immunities",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Bird of PerceptionBird of Perception",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Eagle Eye+5%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Stoic WatchmanStoic Watchman",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "2000Gold",
+      "Effect": "Eagle Eye+10%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Emblem of CognizanceEmblem of Cognizance",
+      "Slot": "Misc",
+      "Class": "Minor",
+      "Cost": "3000Gold",
+      "Effect": "Eagle Eye+15%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Clover of FortuneClover of Fortune",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Luck+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Ladybird of LuckLadybird of Luck",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Luck+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Cards of ProphecyCards of Prophecy",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Luck+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Hourglass of the Evil HourHourglass of the Evil Hour",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "2000Gold",
+      "Effect": "Luckdisabled",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Glyph of GallantryGlyph of Gallantry",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Morale+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Crest of ValorCrest of Valor",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Morale+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Badge of CourageBadge of Courage",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Morale+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Bug:immunity toMind spells",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Spirit of OppressionSpirit of Oppression",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "2000Gold",
+      "Effect": "Moraledisabled except negative",
+      "Combination": ""
+    },
+    {
+      "Artifact": "SpyglassSpyglass",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Scouting radius+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "SpeculumSpeculum",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Scouting radius+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Golden BowGolden Bow",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "8000Gold",
+      "Effect": "Norangeandobstacle penalty",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Bow of Elven CherrywoodBow of Elven Cherrywood",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "2000Gold",
+      "Effect": "Archery+5%",
+      "Combination": "Part ofBow of the Sharpshooter"
+    },
+    {
+      "Artifact": "Bowstring of the Unicorn's ManeBowstring of the Unicorn's Mane",
+      "Slot": "Misc",
+      "Class": "Minor",
+      "Cost": "4000Gold",
+      "Effect": "Archery+10%",
+      "Combination": "Part ofBow of the Sharpshooter"
+    },
+    {
+      "Artifact": "Angel Feather ArrowsAngel Feather Arrows",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "6000Gold",
+      "Effect": "Archery+15%",
+      "Combination": "Part ofBow of the Sharpshooter"
+    },
+    {
+      "Artifact": "Bow of the SharpshooterBow of the Sharpshooter",
+      "Slot": "Combo",
+      "Class": "Relic",
+      "Cost": "12000Gold",
+      "Effect": "Norangeandobstacle penalty",
+      "Combination": "Misc/Misc/Misc"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Nomelee penalty",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Archery+30%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Vial of LifebloodVial of Lifeblood",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "10000Gold",
+      "Effect": "Unithealth+2",
+      "Combination": "Part ofElixir of Life"
+    },
+    {
+      "Artifact": "Elixir of LifeElixir of Life",
+      "Slot": "Combo",
+      "Class": "Relic",
+      "Cost": "20000Gold",
+      "Effect": "Unithealth+25% & +4Hp",
+      "Combination": "Misc/Ring/Ring"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Regenerationability",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Endless Purse of GoldEndless Purse of Gold",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "Gold+500Gold",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Endless Bag of GoldEndless Bag of Gold",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "7500Gold",
+      "Effect": "Gold+750Gold",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Endless Sack of GoldEndless Sack of Gold",
+      "Slot": "Misc",
+      "Class": "Relic",
+      "Cost": "10000Gold",
+      "Effect": "Gold+1000Gold",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Inexhaustible Cart of LumberInexhaustible Cart of Lumber",
+      "Slot": "Misc",
+      "Class": "Minor",
+      "Cost": "5000Gold",
+      "Effect": "ResourceWood+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Inexhaustible Cart of OreInexhaustible Cart of Ore",
+      "Slot": "Misc",
+      "Class": "Minor",
+      "Cost": "5000Gold",
+      "Effect": "ResourceOre+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Everpouring Vial of MercuryEverpouring Vial of Mercury",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "ResourceMercury+1",
+      "Combination": "Part ofCornucopia"
+    },
+    {
+      "Artifact": "CornucopiaCornucopia",
+      "Slot": "Combo",
+      "Class": "Relic",
+      "Cost": "20000Gold",
+      "Effect": "ResourcesCrystalMercurySulfurGem+5",
+      "Combination": "Misc/Cape/Ring/Ring"
+    },
+    {
+      "Artifact": "Legs of LegionLegs of Legion",
+      "Slot": "Misc",
+      "Class": "Treasure",
+      "Cost": "5000Gold",
+      "Effect": "Creaturelvl 2 growth +5",
+      "Combination": "Part ofStatue of Legion"
+    },
+    {
+      "Artifact": "Loins of LegionLoins of Legion",
+      "Slot": "Misc",
+      "Class": "Minor",
+      "Cost": "5000Gold",
+      "Effect": "Creaturelvl 3 growth +4",
+      "Combination": "Part ofStatue of Legion"
+    },
+    {
+      "Artifact": "Torso of LegionTorso of Legion",
+      "Slot": "Misc",
+      "Class": "Minor",
+      "Cost": "5000Gold",
+      "Effect": "Creaturelvl 4 growth +3",
+      "Combination": "Part ofStatue of Legion"
+    },
+    {
+      "Artifact": "Arms of LegionArms of Legion",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "Creaturelvl 5 growth +2",
+      "Combination": "Part ofStatue of Legion"
+    },
+    {
+      "Artifact": "Head of LegionHead of Legion",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "Creaturelvl 6 growth +1",
+      "Combination": "Part ofStatue of Legion"
+    },
+    {
+      "Artifact": "Statue of LegionStatue of Legion",
+      "Slot": "Combo",
+      "Class": "Relic",
+      "Cost": "25000Gold",
+      "Effect": "Creaturegrowth +50%",
+      "Combination": "Misc/Misc/Misc/Misc/Misc"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "(+component effects while in town)",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Shackles of WarShackles of War",
+      "Slot": "Misc",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "Preventsretreatandsurrender",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Vial of Dragon BloodVial of Dragon BloodArmageddon's Blade",
+      "Slot": "Misc",
+      "Class": "Relic",
+      "Cost": "20000Gold",
+      "Effect": "Dragons gets +5AttackandDefense",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Pendant of DispassionPendant of Dispassion",
+      "Slot": "Necklace",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Immune toBerserk",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Pendant of Free WillPendant of Free Will",
+      "Slot": "Necklace",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Immune toHypnotize",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Pendant of LifePendant of Life",
+      "Slot": "Necklace",
+      "Class": "Treasure",
+      "Cost": "2500Gold",
+      "Effect": "Immune toDeath Ripple",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Pendant of DeathPendant of Death",
+      "Slot": "Necklace",
+      "Class": "Treasure",
+      "Cost": "2500Gold",
+      "Effect": "Immune toDestroy Undead",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Pendant of Total RecallPendant of Total Recall",
+      "Slot": "Necklace",
+      "Class": "Treasure",
+      "Cost": "3000Gold",
+      "Effect": "Immune toForgetfulness",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Pendant of HolinessPendant of Holiness",
+      "Slot": "Necklace",
+      "Class": "Treasure",
+      "Cost": "5000Gold",
+      "Effect": "Immune toCurse",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Pendant of Second SightPendant of Second Sight",
+      "Slot": "Necklace",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "Immune toBlind",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Pendant of NegativityPendant of Negativity",
+      "Slot": "Necklace",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "Immune toLightning Bolt",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Immune toChain Lightning",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Collar of ConjuringCollar of Conjuring",
+      "Slot": "Necklace",
+      "Class": "Treasure",
+      "Cost": "500Gold",
+      "Effect": "Spell duration +1",
+      "Combination": "Part ofRing of the Magi"
+    },
+    {
+      "Artifact": "Amulet of the UndertakerAmulet of the Undertaker",
+      "Slot": "Necklace",
+      "Class": "Treasure",
+      "Cost": "2000Gold",
+      "Effect": "Necromancy+5%",
+      "Combination": "Part ofCloak of the Undead King"
+    },
+    {
+      "Artifact": "Garniture of InterferenceGarniture of Interference",
+      "Slot": "Necklace",
+      "Class": "Major",
+      "Cost": "2000Gold",
+      "Effect": "Magic resistance+5%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Statesman's MedalStatesman's Medal",
+      "Slot": "Necklace",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "Surrendingcost is reduced by 10%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Necklace of SwiftnessNecklace of Swiftness",
+      "Slot": "Necklace",
+      "Class": "Treasure",
+      "Cost": "5000Gold",
+      "Effect": "Unitspeed+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Pendant of CouragePendant of Courage",
+      "Slot": "Necklace",
+      "Class": "Major",
+      "Cost": "7000Gold",
+      "Effect": "Luck+3",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Morale+3",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Necklace of DragonteethNecklace of Dragonteeth",
+      "Slot": "Necklace",
+      "Class": "Major",
+      "Cost": "6000Gold",
+      "Effect": "Spell Power+3",
+      "Combination": "Part ofPower of the Dragon Father"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Knowledge+3",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Necklace of Ocean GuidanceNecklace of Ocean Guidance",
+      "Slot": "Necklace",
+      "Class": "Major",
+      "Cost": "10000Gold",
+      "Effect": "Hero seamovement+1000",
+      "Combination": "Part ofAdmiral's Hat"
+    },
+    {
+      "Artifact": "Celestial Necklace of BlissCelestial Necklace of Bliss",
+      "Slot": "Necklace",
+      "Class": "Relic",
+      "Cost": "12000Gold",
+      "Effect": "AllPrimary Skills+3",
+      "Combination": "Part ofAngelic Alliance"
+    },
+    {
+      "Artifact": "Centaur's AxeCentaur's Axe",
+      "Slot": "Weapon",
+      "Class": "Treasure",
+      "Cost": "2000Gold",
+      "Effect": "Attack+2",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Blackshard of the Dead KnightBlackshard of the Dead Knight",
+      "Slot": "Weapon",
+      "Class": "Minor",
+      "Cost": "3000Gold",
+      "Effect": "Attack+3",
+      "Combination": "Part ofArmor of the Damned"
+    },
+    {
+      "Artifact": "Greater Gnoll's FlailGreater Gnoll's Flail",
+      "Slot": "Weapon",
+      "Class": "Minor",
+      "Cost": "4000Gold",
+      "Effect": "Attack+4",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Ogre's Club of HavocOgre's Club of Havoc",
+      "Slot": "Weapon",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "Attack+5",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Sword of HellfireSword of Hellfire",
+      "Slot": "Weapon",
+      "Class": "Major",
+      "Cost": "6000Gold",
+      "Effect": "Attack+6",
+      "Combination": "Part ofArmageddon's Blade(campaign only)"
+    },
+    {
+      "Artifact": "Red Dragon Flame TongueRed Dragon Flame Tongue",
+      "Slot": "Weapon",
+      "Class": "Minor",
+      "Cost": "4000Gold",
+      "Effect": "Attack+2",
+      "Combination": "Part ofPower of the Dragon Father"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Defense+2",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Titan's GladiusTitan's Gladius",
+      "Slot": "Weapon",
+      "Class": "Relic",
+      "Cost": "10000Gold",
+      "Effect": "Attack+12",
+      "Combination": "Part ofTitan's Thunder"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Defense-3",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Sword of JudgementSword of Judgement",
+      "Slot": "Weapon",
+      "Class": "Relic",
+      "Cost": "20000Gold",
+      "Effect": "AllPrimary Skills+5",
+      "Combination": "Part ofAngelic Alliance"
+    },
+    {
+      "Artifact": "Titan's ThunderTitan's Thunder",
+      "Slot": "Combo",
+      "Class": "Relic",
+      "Cost": "40000Gold",
+      "Effect": "Attack+9,Defense+9",
+      "Combination": "Weapon/Helm/Torso/Shield"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Knowledge+8,Spell Power+8",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "SpellTitan's Lightning Bolt",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Adds aSpell Bookpermanently",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Angelic AllianceAngelic Alliance",
+      "Slot": "Combo",
+      "Class": "Relic",
+      "Cost": "84000Gold",
+      "Effect": "AllPrimary Skills+21",
+      "Combination": "Weapon/Torso/Necklace/Helm/Shield/Feet"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "NoAlignmentpenalty for all units of good and neutral alignment, except forConflux",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Prayerin combat",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Armageddon's Blade (artifact)Armageddon's BladeArmageddon's Blade",
+      "Slot": "Weapon",
+      "Class": "Relic",
+      "Cost": "50000Gold",
+      "Effect": "Attack+3,Defense+3",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Knowledge+6,Spell Power+3",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "SpellArmageddonexpert",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Immune toArmageddon",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Ring of ConjuringRing of Conjuring",
+      "Slot": "Ring",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Spell duration +2",
+      "Combination": "Part ofRing of the Magi"
+    },
+    {
+      "Artifact": "Still Eye of the DragonStill Eye of the Dragon",
+      "Slot": "Ring",
+      "Class": "Treasure",
+      "Cost": "2000Gold",
+      "Effect": "Morale+1",
+      "Combination": "Part ofPower of the Dragon Father"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Luck+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Quiet Eye of the DragonQuiet Eye of the Dragon",
+      "Slot": "Ring",
+      "Class": "Treasure",
+      "Cost": "2000Gold",
+      "Effect": "Attack+1",
+      "Combination": "Part ofPower of the Dragon Father"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Defense+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Equestrian's GlovesEquestrian's Gloves",
+      "Slot": "Ring",
+      "Class": "Minor",
+      "Cost": "3000Gold",
+      "Effect": "HeroMovement points+300",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Diplomat's RingDiplomat's Ring",
+      "Slot": "Ring",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "Surrenderingcost is reduced by 10%",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Ring of the WayfarerRing of the Wayfarer",
+      "Slot": "Ring",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "Unitspeed+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Ring of VitalityRing of Vitality",
+      "Slot": "Ring",
+      "Class": "Treasure",
+      "Cost": "5000Gold",
+      "Effect": "Unithealth+1",
+      "Combination": "Part ofElixir of Life"
+    },
+    {
+      "Artifact": "Ring of LifeRing of Life",
+      "Slot": "Ring",
+      "Class": "Minor",
+      "Cost": "5000Gold",
+      "Effect": "Unithealth+1",
+      "Combination": "Part ofElixir of Life"
+    },
+    {
+      "Artifact": "Ring of Infinite GemsRing of Infinite Gems",
+      "Slot": "Ring",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "ResourceGem+1",
+      "Combination": "Part ofCornucopia"
+    },
+    {
+      "Artifact": "Eversmoking Ring of SulfurEversmoking Ring of Sulfur",
+      "Slot": "Ring",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "ResourceSulfur+1",
+      "Combination": "Part ofCornucopia"
+    },
+    {
+      "Artifact": "Ring of the MagiRing of the Magi",
+      "Slot": "Combo",
+      "Class": "Relic",
+      "Cost": "3000Gold",
+      "Effect": "Spell duration +56",
+      "Combination": "Ring/Necklace/Cape"
+    },
+    {
+      "Artifact": "Breastplate of Petrified WoodBreastplate of Petrified Wood",
+      "Slot": "Torso",
+      "Class": "Treasure",
+      "Cost": "1000Gold",
+      "Effect": "Spell Power+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Rib CageRib Cage",
+      "Slot": "Torso",
+      "Class": "Minor",
+      "Cost": "3000Gold",
+      "Effect": "Spell Power+2",
+      "Combination": "Part ofArmor of the Damned"
+    },
+    {
+      "Artifact": "Scales of the Greater BasiliskScales of the Greater Basilisk",
+      "Slot": "Torso",
+      "Class": "Minor",
+      "Cost": "4000Gold",
+      "Effect": "Spell Power+3",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Tunic of the Cyclops KingTunic of the Cyclops King",
+      "Slot": "Torso",
+      "Class": "Major",
+      "Cost": "5000Gold",
+      "Effect": "Spell Power+4",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Breastplate of BrimstoneBreastplate of Brimstone",
+      "Slot": "Torso",
+      "Class": "Major",
+      "Cost": "6000Gold",
+      "Effect": "Spell Power+5",
+      "Combination": "Part ofArmageddon's Blade(campaign only)"
+    },
+    {
+      "Artifact": "Armor of WonderArmor of Wonder",
+      "Slot": "Torso",
+      "Class": "Minor",
+      "Cost": "4000Gold",
+      "Effect": "AllPrimary Skills+1",
+      "Combination": "Part ofAngelic Alliance"
+    },
+    {
+      "Artifact": "Dragon Scale ArmorDragon Scale Armor",
+      "Slot": "Torso",
+      "Class": "Relic",
+      "Cost": "8000Gold",
+      "Effect": "Attack+4",
+      "Combination": "Part ofPower of the Dragon Father"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Defense+4",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Titan's CuirassTitan's Cuirass",
+      "Slot": "Torso",
+      "Class": "Relic",
+      "Cost": "10000Gold",
+      "Effect": "Spell Power+10",
+      "Combination": "Part ofTitan's Thunder"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Knowledge-2",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Armor of the DamnedArmor of the Damned",
+      "Slot": "Combo",
+      "Class": "Relic",
+      "Cost": "12000Gold",
+      "Effect": "Attack+3,Defense+3",
+      "Combination": "Torso/Weapon/Shield/Helm"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Spell Power+2,Knowledge+2",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Slow/Curse/Weakness/Misfortune",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "on all enemies for 50 rounds",
+      "Combination": ""
+    },
+    {
+      "Artifact": "Power of the Dragon FatherPower of the Dragon Father",
+      "Slot": "Combo",
+      "Class": "Relic",
+      "Cost": "42000Gold",
+      "Effect": "AllPrimary Skills+16",
+      "Combination": "Torso/All non-miscellaneous slots"
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Luck+1,Morale+1",
+      "Combination": ""
+    },
+    {
+      "Artifact": "",
+      "Slot": "",
+      "Class": "",
+      "Cost": "",
+      "Effect": "Immune to lvl 1-4spells",
+      "Combination": ""
+    }
+   ]
